@@ -1,3 +1,4 @@
 
 const companyName="Scuber";
-function () { mostProfitableNeighborhood = 'Upper West Side' }
+var mostProfitableNeighborhood = 'Chelsea';
+var companyCeo="Susan Smith";
